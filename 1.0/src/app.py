@@ -5,8 +5,6 @@ from tkinter import *
 from math import pi
 from math import sqrt
 from math import factorial
-
-#Abertura
 from turtle import TurtleScreen, RawTurtle, TK as TKInit
 from time import sleep
 
