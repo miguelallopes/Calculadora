@@ -1,4 +1,4 @@
-# Calculadora_Private
+# Calculadora
 Source of Tkinter/Python3 based calculator
 
 # Requísitos Minimos para rodar esta app
